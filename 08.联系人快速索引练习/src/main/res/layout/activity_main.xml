@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/activity_main"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    tools:context="custome.atguigu.com.a08.MainActivity">
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv_lianxi"/>
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_lianxi"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:text="A"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:layout_centerInParent="true"
+        android:background="#44000000"/>
+   <custome.atguigu.com.a08.IndexView
+       android:id="@+id/iv_lianxi"
+       android:layout_width="30dp"
+       android:layout_height="match_parent"
+       android:background="#ff0000"
+       android:layout_alignParentRight="true"
+       />
+</RelativeLayout>

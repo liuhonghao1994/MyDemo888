@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_bitmap"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.l11_test_graphics.BitmapActivity">
+
+    <Button
+        android:text="读取内存中的图为bitmap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="read"
+        android:id="@+id/button" />
+
+    <Button
+        android:text="保存bitmap对象"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="save"
+        android:id="@+id/button2" />
+    <ImageView
+        android:id="@+id/iv_bitmap"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:scaleType="matrix"
+        android:src="@mipmap/ic_launcher"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:text="使用MatrixScale"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="scale"
+            />
+        <Button
+            android:text="使用MatrixRotate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="rotate"
+            />
+        <Button
+            android:text="使用MatrixTranslate"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="translate"
+            />
+        <Button
+            android:text="重置"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="reset"
+            />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.优酷菜单/01.优酷菜单.iml" filepath="$PROJECT_DIR$/01.优酷菜单/01.优酷菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02。广告栏/02。广告栏.iml" filepath="$PROJECT_DIR$/02。广告栏/02。广告栏.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.自定义开关/04.自定义开关.iml" filepath="$PROJECT_DIR$/04.自定义开关/04.自定义开关.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.自定义属性/05.自定义属性.iml" filepath="$PROJECT_DIR$/05.自定义属性/05.自定义属性.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.仿viewpager/06.仿viewpager.iml" filepath="$PROJECT_DIR$/06.仿viewpager/06.仿viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.联系人快速索引/07.联系人快速索引.iml" filepath="$PROJECT_DIR$/07.联系人快速索引/07.联系人快速索引.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.侧滑菜单/08.侧滑菜单.iml" filepath="$PROJECT_DIR$/08.侧滑菜单/08.侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.侧滑菜单练习1/08.侧滑菜单练习1.iml" filepath="$PROJECT_DIR$/08.侧滑菜单练习1/08.侧滑菜单练习1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.联系人快速索引练习/08.联系人快速索引练习.iml" filepath="$PROJECT_DIR$/08.联系人快速索引练习/08.联系人快速索引练习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18.侧滑菜单/18.侧滑菜单.iml" filepath="$PROJECT_DIR$/18.侧滑菜单/18.侧滑菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l10_MyApp/l10_MyApp.iml" filepath="$PROJECT_DIR$/l10_MyApp/l10_MyApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l10_app_animation/l10_app_animation.iml" filepath="$PROJECT_DIR$/l10_app_animation/l10_app_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l11_9patch/l11_9patch.iml" filepath="$PROJECT_DIR$/l11_9patch/l11_9patch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l11_pw/l11_pw.iml" filepath="$PROJECT_DIR$/l11_pw/l11_pw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l11_test_graphics/l11_test_graphics.iml" filepath="$PROJECT_DIR$/l11_test_graphics/l11_test_graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l11_撕衣服/l11_撕衣服.iml" filepath="$PROJECT_DIR$/l11_撕衣服/l11_撕衣服.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l121_app_fragment/l121_app_fragment.iml" filepath="$PROJECT_DIR$/l121_app_fragment/l121_app_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l12_app_fragment/l12_app_fragment.iml" filepath="$PROJECT_DIR$/l12_app_fragment/l12_app_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l12_fragment/l12_fragment.iml" filepath="$PROJECT_DIR$/l12_fragment/l12_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l12_textshape/l12_textshape.iml" filepath="$PROJECT_DIR$/l12_textshape/l12_textshape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication232/myapplication232.iml" filepath="$PROJECT_DIR$/myapplication232/myapplication232.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mytext/mytext.iml" filepath="$PROJECT_DIR$/mytext/mytext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textbitmap/textbitmap.iml" filepath="$PROJECT_DIR$/textbitmap/textbitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/侧滑菜单练习2/侧滑菜单练习2.iml" filepath="$PROJECT_DIR$/侧滑菜单练习2/侧滑菜单练习2.iml" />
+    </modules>
+  </component>
+</project>

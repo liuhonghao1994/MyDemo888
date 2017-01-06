@@ -1,0 +1,3 @@
+include ':app', ':textbitmap', ':l11_test_graphics', ':l12_textshape', ':myapplication232', ':l11_撕衣服', ':l11_pw', ':l11_9patch', ':l12_fragment', ':l12_app_fragment', ':l121_app_fragment', ':01.优酷菜单', ':02。广告栏', ':04.自定义开关', ':05.自定义属性', ':06.仿viewpager', ':18.侧滑菜单', ':08.侧滑菜单', ':08.侧滑菜单练习1', ':07.联系人快速索引', ':mytext', ':08.联系人快速索引练习', ':侧滑菜单练习2'
+include ':l10_app_animation'
+include ':l10_MyApp'

@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="40dp"
+        android:src="@drawable/atguigu" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+		android:hint="账号"
+		android:gravity="center_horizontal"
+		android:inputType="number"
+		android:layout_marginTop="10dp"
+		/>
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" 
+        android:inputType="textPassword"
+        android:gravity="center_horizontal"
+        android:hint="密码(当您注册成功时，输入注册账号，长点击登录便可获取密码)">
+
+      
+    </EditText>
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:background="#00baff"
+        android:text="进入硅谷之家"
+        android:textColor="#ffffff" 
+        android:onClick="stick"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="82dp"
+        android:text="注册成为硅谷一员"
+        android:textColor="#ff0000" 
+        android:onClick="reset"/>
+
+</LinearLayout>

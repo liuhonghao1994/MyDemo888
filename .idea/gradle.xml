@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01.优酷菜单" />
+            <option value="$PROJECT_DIR$/02。广告栏" />
+            <option value="$PROJECT_DIR$/04.自定义开关" />
+            <option value="$PROJECT_DIR$/05.自定义属性" />
+            <option value="$PROJECT_DIR$/06.仿viewpager" />
+            <option value="$PROJECT_DIR$/07.联系人快速索引" />
+            <option value="$PROJECT_DIR$/08.侧滑菜单" />
+            <option value="$PROJECT_DIR$/08.侧滑菜单练习1" />
+            <option value="$PROJECT_DIR$/08.联系人快速索引练习" />
+            <option value="$PROJECT_DIR$/18.侧滑菜单" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/l10_MyApp" />
+            <option value="$PROJECT_DIR$/l10_app_animation" />
+            <option value="$PROJECT_DIR$/l11_9patch" />
+            <option value="$PROJECT_DIR$/l11_pw" />
+            <option value="$PROJECT_DIR$/l11_test_graphics" />
+            <option value="$PROJECT_DIR$/l11_撕衣服" />
+            <option value="$PROJECT_DIR$/l121_app_fragment" />
+            <option value="$PROJECT_DIR$/l12_app_fragment" />
+            <option value="$PROJECT_DIR$/l12_fragment" />
+            <option value="$PROJECT_DIR$/l12_textshape" />
+            <option value="$PROJECT_DIR$/myapplication232" />
+            <option value="$PROJECT_DIR$/mytext" />
+            <option value="$PROJECT_DIR$/textbitmap" />
+            <option value="$PROJECT_DIR$/侧滑菜单练习2" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

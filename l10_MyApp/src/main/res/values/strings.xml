@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">L10_MyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_slide">SlideActivity</string>
+    <string name="title_activity_my_image1">MyImage1Activity</string>
+    <string name="title_activity_roll">RollActivity</string>
+    <string name="title_activity_mytent">Mytent</string>
+    <string name="title_activity_myset">Myset</string>
+    <string name="title_activity_my_content">MyContentActivity</string>
+
+</resources>
